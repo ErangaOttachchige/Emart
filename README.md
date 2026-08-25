@@ -1,3 +1,3 @@
 # emart-app
 
-Building a microservice application using Docker
+Building a microservice application using Docker and Docker Compose
